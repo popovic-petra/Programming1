@@ -230,5 +230,5 @@ void zadatak10() {
 		}
 		x /= 10;
 	}
-	printf("Broj s obrnito napisanim znamenkama je: %d", z);
+	printf("Broj s obrnuto napisanim znamenkama je: %d", z);
 }
